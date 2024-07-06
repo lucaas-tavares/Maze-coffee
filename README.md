@@ -10,7 +10,7 @@ Este projeto em JavaScript cria e resolve labirintos de forma interativa usando 
 
 ## Acesso
 
-Acesse o jogo pelo [Pages](https://example.com)
+Acesse o jogo pelo [Pages](lucaas-tavares.github.io/Maze-coffee/)
 - preview da página
 ![Maze Coffee](/assets/print01.png)
 
